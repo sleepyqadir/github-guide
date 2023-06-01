@@ -4,7 +4,7 @@
   /* and span the full width of grid size */
 
   display: grid;
-  background: black;
+  background: blue;
   color: white;
 
   /* Defines the columns and rows of the grid with a space-separated list of values. */
